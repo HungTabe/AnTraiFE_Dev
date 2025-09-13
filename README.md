@@ -79,7 +79,6 @@ app/
 
 ### 🔐 Authentication & User Management
 - [x] Đăng nhập/Đăng ký với JWT
-- [x] Biometric authentication (Fingerprint/Face)
 - [x] Remember me & Auto-login
 - [x] Profile management
 - [x] Role-based UI (Farmer/Expert/Admin)
@@ -92,7 +91,6 @@ app/
 - [x] Chi tiết thông tin từng con
 - [x] Phân loại theo giống, tuổi, sức khỏe
 - [x] Quản lý chuồng trại
-- [x] QR Code scanning cho gia cầm
 
 ### 🏥 Health & Care Management
 - [x] Dashboard sức khỏe tổng quan
@@ -105,7 +103,6 @@ app/
 
 ### 🤖 AI Assistant
 - [x] Chat interface với AI
-- [x] Voice input/output
 - [x] Chẩn đoán triệu chứng qua ảnh
 - [x] Tư vấn kỹ thuật chăn nuôi
 - [x] Cơ sở tri thức tìm kiếm
@@ -125,7 +122,6 @@ app/
 - [x] Báo cáo sức khỏe
 - [x] Thống kê chi phí
 - [x] Biểu đồ tăng trưởng
-- [x] Export PDF/Excel
 - [x] Offline reports
 
 ### 🌤️ Weather Integration
@@ -137,10 +133,6 @@ app/
 
 ### 📱 Mobile Features
 - [x] Offline mode
-- [x] Push notifications
-- [x] Dark/Light theme
-- [x] Multi-language (VI/EN)
-- [x] Tablet support
 - [x] Accessibility support
 - [x] Background sync
 
